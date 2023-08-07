@@ -93,10 +93,17 @@
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
           "settings": {
           }
+        },
+        "8aa9ef03-74af-4d7c-b1bd-8923c8bcfb21": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": ""
+          }
         }
       },
       "block_order": [
-        "3bb0249f-193b-4c5e-9219-6778c6c9204f"
+        "3bb0249f-193b-4c5e-9219-6778c6c9204f",
+        "8aa9ef03-74af-4d7c-b1bd-8923c8bcfb21"
       ],
       "settings": {
         "include_margins": true
